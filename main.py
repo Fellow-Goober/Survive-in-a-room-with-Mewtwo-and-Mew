@@ -12,7 +12,7 @@ while game_running:
         print("You bang on the door as hard as humanely possible, but to no avail.")
         print("Cooked - Mewtwo finds that exceptionally disrespectful, and Mew thinks you do not want to play - they both zap you to the Andromeda galaxy where you try to start a new life - terrible ending.")
     elif choice1 == "3":
-        print("you make bread with JJ")
+        print("Mewtwo and Mew are completely interested in you and see you as an amazing, youthful, nice, kind, generous, special, awesome gentleman (not glaze I promise)")
         print("You also WIN!!!")
     elif choice1 == "4":
         print("You find a Mewtwo's mega stone")
